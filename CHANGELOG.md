@@ -5,3 +5,7 @@
 ## 1.0.1
 
 - Typo Fix
+
+## 1.0.2
+
+- `/Examples` converted to .dart instead of .md 
