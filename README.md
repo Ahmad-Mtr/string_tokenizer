@@ -23,7 +23,7 @@ A more advanced String Tokenizer than the available `split()` method in dart.
 ## Getting started
 
 ```bash
-dart pub add string_tokenizer
+dart pub add string_tokenizer_1
 ```
 
 ## Usage

@@ -1,8 +1,11 @@
 name: string_tokenizer_1
 description: A package that splits Strings into multiple tokens.
-version: 1.0.0
-# repository: https://github.com/Ahmad-Mtr/string_tokenizer
-
+version: 1.0.1
+repository: https://github.com/Ahmad-Mtr/string_tokenizer
+topics:
+ - string
+ - tokens
+ - string-manipulation
 environment:
   sdk: ^3.1.0
 
