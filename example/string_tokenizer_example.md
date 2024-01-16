@@ -1,6 +1,6 @@
 ### ExampleA
 ```dart
-import 'package:string_tokenizer/string_tokenizer.dart';
+import 'package:string_tokenizer_1/string_tokenizer_1.dart';
 
 final input = "package:string_tokenizer/...";
 final objkt = StringTokenizer(input, delimiters: [':']);
@@ -9,7 +9,7 @@ print(token); //  'package'
 ```
 ### ExampleB
 ```dart
-import 'package:string_tokenizer/string_tokenizer.dart';
+import 'package:string_tokenizer_1/string_tokenizer_1.dart';
 
 final input = "CS116\tComputing-fundamentals\tMon-Wed\nCS222\tTheory of Algorithms\tSun-Tue";
 final objkt = StringTokenizer(input, delimiters: ['\t', '\n']);
@@ -40,7 +40,7 @@ print('@Days: $days'); //  ["Mon-Wed", "Sun-Tue"]
 ```
 ### ExampleC
 ```dart
-import 'package:string_tokenizer/string_tokenizer.dart';
+import 'package:string_tokenizer_1/string_tokenizer_1.dart';
 final input1 =
       "hello   I'm under the water please help here too much raining";
   final objkt1 = StringTokenizer(input1);

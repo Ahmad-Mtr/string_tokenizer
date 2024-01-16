@@ -31,7 +31,7 @@ dart pub add string_tokenizer
 > Longer examples in `/example` folder. 
 
 ```dart
-import 'package:string_tokenizer/string_tokenizer.dart';
+import 'package:string_tokenizer_1/string_tokenizer_1.dart';
 ```
 ```dart
   final input2 =

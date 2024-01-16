@@ -1,5 +1,3 @@
-// TODO: Put public facing types in this file.
-
 /// A String Tokenizer can be used to split multiple Strings based on delimters into smaller chunks called Tokens, `input` is your input String, `delimeters` are the splitting rules that you add, they have a default value, but they can be changed based on your preference. It has 2 public methods:
 /// 1. `hasMoreTokens()` which returns true if there are more tokens available, or false if there aren't left.
 /// 2. `nextToken()` which returns the next available token as a String.
