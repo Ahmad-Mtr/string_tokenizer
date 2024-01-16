@@ -21,8 +21,7 @@ class StringTokenizer {
     }
 
     if (_position == input.length) {
-      return '';
-      //throw StateError("No more tokens available");
+      throw StateError("No more tokens available");
     }
 
     /// find Token's end position
